@@ -15,7 +15,6 @@ export default function AniBody({
   wordSpace,
   charSpace,
 }: AniBodyProps) {
-  //   const text = "Animated Text"; // This would normally be passed into this component as a prop!
 
   const ctrls = useAnimation();
 

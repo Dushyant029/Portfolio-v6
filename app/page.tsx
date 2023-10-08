@@ -1,7 +1,6 @@
 "use client";
 import useBlobity from "blobity/lib/react/useBlobity";
 import { useEffect } from "react";
-import { ScrollerMotion } from "scroller-motion";
 import Loader from "./animations/Loader/Loader";
 import { initialBlobityOptions } from "./background/bgConfig";
 import Hero_Sec from "./hero/Hero_Sec";
@@ -20,7 +19,7 @@ export default function Home() {
   useEffect(() => {
     if (blobityInstance.current) {
       // @ts-ignore for debugging purposes or playing around
-      window.blobity = blobityInstance.current;
+      window.blobity = blobityInstance.current; 
     }
   }, [blobityInstance]);
 
@@ -36,8 +35,6 @@ export default function Home() {
       <Loader />
 
       <Nav_Sec />
-
-      {/* <ScrollerMotion> */}
       <main className="flex flex-col items-center justify-center">
         <Hero_Sec />
         <About />
@@ -46,7 +43,6 @@ export default function Home() {
         <Contact />
         <Footer />
       </main>
-      {/* </ScrollerMotion> */}
     </>
   );
 }
