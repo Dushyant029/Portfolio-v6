@@ -37,7 +37,7 @@ const Contact_Sec = () => {
               }
             />
             <Link
-              href="mailto:k.dushyantreddy@gmail.com?subject=Let's%20connect!&amp;body=Hello,%2C%20I%20believe%20we%20need%20your%20assistance%20with%20this%20particular%20product...%20As%20swiftly%20as%20you%20can,%20get%20in%20touch."
+              href="mailto:k.dushyantreddy@gmail.com?subject=Let's%20connect!&amp;body=Hello%2C%20I%20believe%20we%20need%20your%20assistance%20with%20this%20particular%20product...%20As%20swiftly%20as%20you%20can,%20get%20in%20touch."
               target="_blank"
               aria-label="Email me please!"
               className="mt-1 w-[147px] flex-1 underline underline-offset-2 hover:no-underline sm:mt-2 sm:w-[147px] md:mt-3 md:w-[170px] lg:mt-4"
