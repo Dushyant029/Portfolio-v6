@@ -15,7 +15,7 @@ const Nav_Sec = () => {
   };
 
   return (
-    <nav className="fixed bottom-10 left-0 right-0 z-50 my-0  mx-auto  flex w-[306px] items-center justify-center gap-1 rounded-lg bg-[#07070a]/90 px-1 py-1 text-[#e4ded7] backdrop-blur-md sm:w-[383.3px] md:p-2 lg:w-[500.3px]">
+    <nav className="fixed bottom-10 left-0 right-0 z-50 my-0  mx-auto  flex w-[380px] items-center justify-center gap-1 rounded-lg bg-[#07070a]/90 px-1 py-1 text-[#e4ded7] backdrop-blur-md sm:w-[500px] md:p-2 lg:w-[500.3px]">
       <Link
         href="https://drive.google.com/file/d/1Ff2q5b1bhokJdU1bxJMMk7l6B_MTBYDp/view"
         target="_blank"
