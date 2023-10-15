@@ -14,7 +14,7 @@ const Hero_Sec = () => {
       initial="initial"
       animate="animate"
     >
-      <motion.div className="absolute left-0 top-0 right-0 bottom-0 h-full w-full bg-[#0E1016] mix-blend-color"></motion.div>
+      <motion.div className="absolute left-0 top-0 right-0 bottom-0 h-full w-full bg-[#091a28] mix-blend-color"></motion.div>
 
       <div className="absolute top-10 flex justify-between sm:w-[90%] lg:max-w-[1440px]">
         <div>
@@ -24,7 +24,7 @@ const Hero_Sec = () => {
             aria-label="View Resume"
           >
             <motion.button
-              className="hidden rounded-md border-2 border-[#e4ded7] py-2 px-4 text-[14px] font-semibold text-[#e4ded7] sm:block  md:text-[16px] lg:block"
+              className="hidden rounded-md border-2 border-[#ffa590] py-2 px-4 text-[14px] font-semibold text-[#ffa590] sm:block  md:text-[16px] lg:block"
               variants={bodyAnimation}
             >
               VIEW RESUME
@@ -32,14 +32,14 @@ const Hero_Sec = () => {
           </Link>
         </div>
 
-        <div className="flex gap-10 text-[#e4ded7] sm:gap-12 md:gap-14 lg:gap-14">
+        <div className="flex gap-10 text-[#ffa590] sm:gap-12 md:gap-14 lg:gap-14">
           <Link
             href="https://www.linkedin.com/kdushyantreddy/"
             target="_blank"
             aria-label="View LinkedIn Profile"
           >
             <motion.p
-              className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
+              className="text-[16px] font-bold text-[#ffa590] md:text-[16px]"
               variants={bodyAnimation}
             >
               LI
@@ -51,7 +51,7 @@ const Hero_Sec = () => {
             aria-label="View GitHub Profile"
           >
             <motion.p
-              className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
+              className="text-[16px] font-bold text-[#ffa590] md:text-[16px]"
               variants={bodyAnimation}
             >
               GH
@@ -63,7 +63,7 @@ const Hero_Sec = () => {
             aria-label="View Credly Profile"
           >
             <motion.p
-              className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
+              className="text-[16px] font-bold text-[#ffa590] md:text-[16px]"
               variants={bodyAnimation}
             >
               CD
@@ -81,7 +81,7 @@ const Hero_Sec = () => {
             style="inline-block overflow-hidden pt-1 -mr-4 sm:-mr-5 md:-mr-7 lg:-mr-9 -mb-1 sm:-mb-2 md:-mb-3 lg:-mb-4"
           />
           <motion.div
-            className="absolute bottom-[-110px] mx-auto sm:bottom-[-100px] md:bottom-[-130px] lg:bottom-[-180px]"
+            className="absolute bottom-[-110px] mx-auto sm:bottom-[-135px] md:bottom-[-130px] lg:bottom-[-180px]"
             variants={imageAnimation}
           >
             <Image
@@ -90,7 +90,7 @@ const Hero_Sec = () => {
               alt="Dushyant's pic"
               data-blobity-tooltip="A Geek"
               data-blobity-invert="false"
-              className=" w-[150px] rounded-[16px] grayscale hover:grayscale-0 md:w-[200px] md:rounded-[32px] lg:w-[245px]"
+              className=" w-[170px] rounded-[16px] grayscale hover:grayscale-0 md:w-[200px] md:rounded-[32px] lg:w-[245px]"
             />
           </motion.div>
         </div>
@@ -105,7 +105,7 @@ const Hero_Sec = () => {
           className="  max-w-[350px] md:max-w-[400px] lg:max-w-[400px]"
           variants={bodyAnimation}
         >
-          <p className="z-50 text-center text-[16px] font-medium text-[#e4ded7] md:text-[20px] lg:text-left">
+          <p className="z-50 text-center text-[16px] font-medium text-[#ffa590] md:text-[20px] lg:text-left">
             Aspiring Software Engineer and AWS Cloud Intern, presently at{" "}
             <Link
               href="https://www.cloudplusai.tech/"
@@ -122,7 +122,7 @@ const Hero_Sec = () => {
           className="  hidden max-w-[500px] lg:block lg:max-w-[420px]"
           variants={bodyAnimation}
         >
-          <p className="text-right text-[16px] font-semibold text-[#e4ded7] md:text-[20px]">
+          <p className="text-center text-[16px] font-medium text-[#ffa590] md:text-[20px] lg:text-right">
           Learning new sets of softwares and skills.
           </p>
         </motion.div>

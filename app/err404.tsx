@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const err404 = () => {
   return (
-    <div className="flex h-[100vh] flex-col items-center justify-center bg-[#0E1016] text-[#e4ded7] gap-5">
+    <div className="flex h-[100vh] flex-col items-center justify-center bg-[#091a28] text-[#ffa590] gap-5">
       <p className="text-[25px] sm:text-[30px] md:text-[35px] lg:text-[40px] uppercase">Error </p>
       <Image
         src="https://raw.githubusercontent.com/Dushyant029/Images/a2b63a357dca94009403e820ab6f00e3bece9b0e/error.jpg"

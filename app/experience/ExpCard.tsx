@@ -7,7 +7,7 @@ import "../globals.css";
 
 const ExpCard = ({ title, image, url, date, available }: expProps) => {
   return (
-    <div className="relative flex h-[430px] w-[100%] max-w-[400px] flex-col items-center justify-start rounded-2xl bg-[#212531]">
+    <div className="relative flex h-[430px] w-[100%] max-w-[400px] flex-col items-center justify-start rounded-2xl bg-[#0e2233]">
       <div className="mt-4 h-[100%] w-[90%] lg:mt-5 lg:w-[92%]">
         <div className="h-[60%] w-full md:h-[56%]">
           <Image
@@ -37,7 +37,7 @@ const ExpCard = ({ title, image, url, date, available }: expProps) => {
             >
               <FontAwesomeIcon
                 icon={faArrowRight}
-                className=" w-[16px] rounded-full bg-[#0E1016] p-3 text-[16px] text-[#fff] md:w-[20px] md:text-[20px] lg:w-[18px] lg:p-4 lg:text-[18px]"
+                className=" w-[16px] rounded-full bg-[#091a28] p-3 text-[16px] text-[#fff] md:w-[20px] md:text-[20px] lg:w-[18px] lg:p-4 lg:text-[18px]"
                 data-blobity
                 data-blobity-radius="30"
                 data-blobity-offset-x="4"

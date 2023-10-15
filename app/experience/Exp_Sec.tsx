@@ -3,12 +3,12 @@ import { expDets } from "./expDets";
 
 const Exp_Sec = () => {
   return (
-    <section id="experience" className="z-10 flex w-full flex-col items-center justify-center overflow-hidden bg-[#0E1016] bg-cover bg-center pt-20 md:pb-16 lg:pb-32">
+    <section id="experience" className="z-10 flex w-full flex-col items-center justify-center overflow-hidden bg-[#091a28] bg-cover bg-center pt-20 md:pb-16 lg:pb-32">
       <div
-        className={`relative mb-16 flex w-full flex-col items-center justify-center gap-10  text-[#e4ded7] sm:items-center lg:max-w-[1440px]`}
+        className={`relative mb-16 flex w-full flex-col items-center justify-center gap-10  text-[#ffa590] sm:items-center lg:max-w-[1440px]`}
       >
         {" "}
-        <h2 className="mb-10 text-[36px] text-[#e4ded7] md:mb-16 md:text-[42px] lg:mb-16 lg:text-[72px]">
+        <h2 className="mb-10 text-[36px] text-[#ffa590] md:mb-16 md:text-[42px] lg:mb-16 lg:text-[72px]">
         Experiences
       </h2>
       </div>

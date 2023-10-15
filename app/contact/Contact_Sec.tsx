@@ -9,7 +9,7 @@ import { motion } from "framer-motion";
 const Contact_Sec = () => {
   return (
     <motion.section
-      className="relative z-10 flex h-[85vh] w-full items-center justify-center overflow-hidden bg-[#0E1016] bg-cover bg-center py-16 md:h-[80vh] md:py-20 lg:h-[90vh] lg:pt-0 lg:pb-28"
+      className="relative z-10 flex h-[85vh] w-full items-center justify-center overflow-hidden bg-[#091a28] bg-cover bg-center py-16 md:h-[80vh] md:py-20 lg:h-[90vh] lg:pt-0 lg:pb-28"
       id="contact"
       initial="initial"
       animate="animate"
@@ -21,13 +21,13 @@ const Contact_Sec = () => {
           <AniWord2
             title={"Let's Code"}
             style={
-              "flex max-w-[500px] flex-col items-start text-left text-[150px] font-extrabold uppercase leading-[0.9em] text-[#e4ded7] sm:max-w-full sm:flex-row sm:items-center sm:justify-center sm:text-center sm:text-[170px] md:text-[200px] lg:text-center lg:text-[270px] xl:text-[390px]"
+              "flex max-w-[500px] flex-col items-start text-left text-[150px] font-extrabold uppercase leading-[0.9em] text-[#ffa590] sm:max-w-full sm:flex-row sm:items-center sm:justify-center sm:text-center sm:text-[170px] md:text-[200px] lg:text-center lg:text-[270px] xl:text-[390px]"
             }
           />
         </div>
 
         <div className="mt-20 flex w-full flex-col items-end justify-center gap-16 sm:mt-32 sm:gap-12 md:mt-40 md:flex-row md:items-start md:justify-between lg:mt-12 lg:max-w-[1440px]">
-          <div className=" flex w-[350px] max-w-[90%] flex-col items-end text-right text-[14px] font-semibold uppercase text-[#e4ded7] sm:w-[350px] sm:text-[14px] md:w-[310px] md:items-start md:text-left md:text-[16px] lg:w-[420px] lg:text-[16px]">
+          <div className=" flex w-[350px] max-w-[90%] flex-col items-end text-right text-[14px] font-semibold uppercase text-[#ffa590] sm:w-[350px] sm:text-[14px] md:w-[310px] md:items-start md:text-left md:text-[16px] lg:w-[420px] lg:text-[16px]">
             <AniBody
               text={
                 "Have a query, idea, project, or interested to collaborate on anything?"
@@ -46,7 +46,7 @@ const Contact_Sec = () => {
             </Link>
           </div>
 
-          <div className="flex gap-10 text-[16px] font-bold text-[#e4ded7]  sm:gap-14 sm:text-[24px] md:gap-10 md:text-[16px] lg:gap-20 lg:text-[28px]">
+          <div className="flex gap-10 text-[16px] font-bold text-[#ffa590]  sm:gap-14 sm:text-[24px] md:gap-10 md:text-[16px] lg:gap-20 lg:text-[28px]">
             <Link
               href="https://www.linkedin.com/in/kdushyantreddy/"
               target="_blank"
@@ -55,7 +55,7 @@ const Contact_Sec = () => {
               <AniTitle
                 text={"LI"}
                 className={
-                  "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
+                  "text-[16px] font-bold text-[#ffa590] sm:text-[20px] md:text-[16px] lg:text-[28px]"
                 }
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
@@ -69,7 +69,7 @@ const Contact_Sec = () => {
               <AniTitle
                 text={"GH"}
                 className={
-                  "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
+                  "text-[16px] font-bold text-[#ffa590] sm:text-[20px] md:text-[16px] lg:text-[28px]"
                 }
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
@@ -83,7 +83,7 @@ const Contact_Sec = () => {
               <AniTitle
                 text={"DF"}
                 className={
-                  "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
+                  "text-[16px] font-bold text-[#ffa590] sm:text-[20px] md:text-[16px] lg:text-[28px]"
                 }
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
@@ -97,7 +97,7 @@ const Contact_Sec = () => {
               <AniTitle
                 text={"HR"}
                 className={
-                  "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
+                  "text-[16px] font-bold text-[#ffa590] sm:text-[20px] md:text-[16px] lg:text-[28px]"
                 }
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
@@ -111,7 +111,7 @@ const Contact_Sec = () => {
               <AniTitle
                 text={"CD"}
                 className={
-                  "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
+                  "text-[16px] font-bold text-[#ffa590] sm:text-[20px] md:text-[16px] lg:text-[28px]"
                 }
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
@@ -125,7 +125,7 @@ const Contact_Sec = () => {
               <AniTitle
                 text={"IG"}
                 className={
-                  "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
+                  "text-[16px] font-bold text-[#ffa590] sm:text-[20px] md:text-[16px] lg:text-[28px]"
                 }
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
