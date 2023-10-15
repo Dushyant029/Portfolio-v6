@@ -81,7 +81,7 @@ const Hero_Sec = () => {
             style="inline-block overflow-hidden pt-1 -mr-4 sm:-mr-5 md:-mr-7 lg:-mr-9 -mb-1 sm:-mb-2 md:-mb-3 lg:-mb-4"
           />
           <motion.div
-            className="absolute bottom-[-110px] mx-auto sm:bottom-[-135px] md:bottom-[-130px] lg:bottom-[-180px]"
+            className="absolute bottom-[-145px] mx-auto sm:bottom-[-145px] md:bottom-[-165px] lg:bottom-[-190px]"
             variants={imageAnimation}
           >
             <Image
