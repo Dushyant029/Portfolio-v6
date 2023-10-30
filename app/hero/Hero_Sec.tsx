@@ -108,12 +108,12 @@ const Hero_Sec = () => {
           <p className="z-50 text-center text-[16px] font-medium text-[#ffa590] md:text-[20px] lg:text-left">
             Aspiring Software Engineer and AWS Cloud Intern, presently at{" "}
             <Link
-              href="https://www.cloudplusai.tech/"
+              href="https://www.f13.tech/"
               target="_blank"
               className="underline underline-offset-2 hover:no-underline"
-              aria-label="CloudplusAI Website"
+              aria-label="F13 Website"
             >
-              CloudplusAI.
+              F13 Technologies.
             </Link>
           </p>
         </motion.div>

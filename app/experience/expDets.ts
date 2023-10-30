@@ -9,6 +9,13 @@ export type expProps = {
   export const expDets = [
     {
       title: "AWS Cloud Intern",
+      image: "https://media.licdn.com/dms/image/C510BAQE40-is5MArwA/company-logo_200_200/0/1586491270219?e=2147483647&v=beta&t=Tnfx9YHWcQLeG7JyvArX56ulTOY9tR-VbO08lwaqPSk",
+      date: "F13 Technologies [Oct 2023-Present] ",
+      url: "https://www.linkedin.com/company/f13tech/",
+      available: true,
+    },
+    {
+      title: "Cloud Intern",
       image: "https://www.cloudplusai.tech/files/2.png",
       date: "CloudplusAI Technology [Sep 2023-Present] ",
       url: "https://in.linkedin.com/company/cloudplusai",
