@@ -37,7 +37,7 @@ export type expProps = {
     },
     {
       title: "FrontEnd Development Intern",
-      image: "https://apnelog.org/images/logo-ico.png",
+      image: "https://media.licdn.com/dms/image/C4E03AQHac8Ire2k7uQ/profile-displayphoto-shrink_200_200/0/1623418817203?e=2147483647&v=beta&t=YiaZmsM-eyKi_1P3FFm7W8qs9NHriXczMOvzK-IWJvQ",
       date: "ApneLog NGO [Jun-Aug 2021]",
       url: "https://www.linkedin.com/in/apnelog-ngo-48693a18b/",
       available: true,
