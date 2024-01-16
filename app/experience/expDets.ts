@@ -17,7 +17,7 @@ export type expProps = {
     {
       title: "Cloud Intern",
       image: "https://www.cloudplusai.tech/files/2.png",
-      date: "CloudplusAI Technology [Sep 2023-Nov 2023] ",
+      date: "CloudplusAI Technology [Sep-Nov 2023] ",
       url: "https://in.linkedin.com/company/cloudplusai",
       available: true,
     },
