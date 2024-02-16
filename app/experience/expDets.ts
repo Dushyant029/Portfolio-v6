@@ -15,6 +15,13 @@ export type expProps = {
       available: true,
     },
     {
+      title: "FullStack Web Developer Intern",
+      image: "https://github.com/Dushyant029/Images/blob/3b2d6b9f414dac59937232bd3ae65d732527f2e2/eylogo.jpg?raw=true",
+      date: "EY GDS Edunet [Dec 2023-Jan 2024] ",
+      url: "https://www.linkedin.com/company/edunetfoundation",
+      available: true,
+    },
+    {
       title: "Cloud Intern",
       image: "https://www.cloudplusai.tech/files/2.png",
       date: "CloudplusAI Technology [Sep-Nov 2023] ",
