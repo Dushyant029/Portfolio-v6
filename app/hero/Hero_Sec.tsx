@@ -34,7 +34,7 @@ const Hero_Sec = () => {
 
         <div className="flex gap-10 text-[#ffa590] sm:gap-12 md:gap-14 lg:gap-14">
           <Link
-            href="https://www.linkedin.com/kdushyantreddy/"
+            href="https://www.linkedin.com/in/kdushyantreddy/"
             target="_blank"
             aria-label="View LinkedIn Profile"
           >
