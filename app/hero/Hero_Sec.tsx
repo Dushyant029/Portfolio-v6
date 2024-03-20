@@ -19,7 +19,7 @@ const Hero_Sec = () => {
       <div className="absolute top-10 flex justify-between sm:w-[90%] lg:max-w-[1440px]">
         <div>
           <Link
-            href="https://drive.google.com/file/d/1RpIA-fBqt90m4gzY4bGp3mqlpqC8CLuh/view"
+            href="https://drive.google.com/file/d/1_n49cRtwyjTY0_3oFjUaK3Hbbtjbpo7U/view"
             target="_blank"
             aria-label="View Resume"
           >

@@ -17,7 +17,7 @@ const Nav_Sec = () => {
   return (
     <nav className="fixed bottom-10 left-0 right-0 z-50 my-0  mx-auto  flex w-[380px] items-center justify-center gap-1 rounded-lg bg-[#07070a]/90 px-1 py-1 text-[#ffa590] backdrop-blur-md sm:w-[500px] md:p-2 lg:w-[500.3px]">
       <Link
-        href="https://drive.google.com/file/d/1RpIA-fBqt90m4gzY4bGp3mqlpqC8CLuh/view"
+        href="https://drive.google.com/file/d/1_n49cRtwyjTY0_3oFjUaK3Hbbtjbpo7U/view"
         target="_blank"
         className="flex"
         aria-label="Open my resume"
