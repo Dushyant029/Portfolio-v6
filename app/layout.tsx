@@ -12,7 +12,7 @@ const syne = Syne({
 
 export const metadata: Metadata = {
   title: 'K. Dushyant Reddy - Porfolio',
-  description: 'Aspiring Software Engineer and AWS Cloud Intern, presently at CloudplusAI. Learning new sets of softwares and skills.',
+  description: 'Aspiring Software Engineer and AWS Cloud Revitalizer Volunteer, presently at SURE Trust. Learning new sets of softwares and skills.',
   colorScheme: "dark"
 }
 

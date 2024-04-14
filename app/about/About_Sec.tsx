@@ -14,7 +14,7 @@ const About = () => {
       
         <AniTitle
           text={
-            "MY OBJECTIVE IS FOR(INIT = LEARN, RUN >= DESIGN, FINALIZE = DEVELOPMENT++)"
+            "MY OBJECTIVE IS FOR(INIT=LEARN, RUN>=DESIGN, FINALIZE=DEVELOPMENT++);"
           }
           className={
             "mb-10 text-left text-[40px] font-bold leading-[0.9em] tracking-tighter text-[#ffa590] sm:text-[45px] md:mb-16 md:text-[60px] lg:text-[80px]"

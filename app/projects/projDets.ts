@@ -39,7 +39,7 @@ export type ProjProps = {
         "AmDy helps learners study at their own pace, improves learner retention, allows the creation of a unique learning environment.",
       technologies: ["ReactNative", "NodeJS", "AV Config"],
       github: "https://github.com/Dushyant029/AmDy-Edu",
-      demo: "https://github.com/Dushyant029/AmDy-Edu",
+      demo: "https://www.loom.com/share/83dd24bc56984b19a3d0438968ef0df5",
       image: require(".//../../public/projects/i3.png"),
       available: true,
     },

@@ -106,14 +106,14 @@ const Hero_Sec = () => {
           variants={bodyAnimation}
         >
           <p className="z-50 text-center text-[16px] font-medium text-[#ffa590] md:text-[20px] lg:text-left">
-            Aspiring Software Engineer and AWS Cloud Intern, presently at{" "}
+            Aspiring Software Engineer and AWS Cloud Revitalizer Volunteer, presently at{" "}
             <Link
-              href="https://www.f13.tech/"
+              href="https://www.suretrustforruralyouth.com/"
               target="_blank"
               className="underline underline-offset-2 hover:no-underline"
-              aria-label="F13 Website"
+              aria-label="SURE Trust Website"
             >
-              F13 Technologies.
+              SURE Trust.
             </Link>
           </p>
         </motion.div>

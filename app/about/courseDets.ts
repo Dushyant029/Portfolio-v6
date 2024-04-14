@@ -38,7 +38,7 @@ export type CourseProps = {
     },
     {
       title: "International Summer Workshop",
-      source: "UMP",
+      source: "Universiti Malaysia Pahang",
       image: require(".//../../public/courses/6.jpg"),
       link: "https://drive.google.com/file/d/1ILfFzqhIUXh0D_uE4hmVLu89SNzb7LVs/view",
     },
