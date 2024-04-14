@@ -17,7 +17,7 @@ const About = () => {
             "MY OBJECTIVE IS FOR(INIT=LEARN, RUN>=DESIGN, FINALIZE=DEVELOPMENT++);"
           }
           className={
-            "mb-10 text-left text-2xl font-bold leading-snug tracking-tighter text-[#ffa590] sm:text-3xl md:mb-16 md:text-4xl lg:text-7xl"
+            "mb-10 text-left text-2xl font-bold leading-snug tracking-tighter text-[#ffa590] sm:text-3xl md:text-4xl lg:text-7xl"
           }
           wordSpace={"mr-[14px]"}
           charSpace={"mr-[0.001em]"}
