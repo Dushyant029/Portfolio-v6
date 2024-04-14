@@ -17,14 +17,14 @@ const About = () => {
             "MY OBJECTIVE IS FOR(INIT=LEARN, RUN>=DESIGN, FINALIZE=DEVELOPMENT++);"
           }
           className={
-            "mb-10 text-left text-[40px] font-bold leading-[0.9em] tracking-tighter text-[#ffa590] sm:text-[45px] md:mb-16 md:text-[60px] lg:text-[80px]"
+            "mb-10 text-left text-2xl font-bold leading-snug tracking-tighter text-[#ffa590] sm:text-3xl md:mb-16 md:text-4xl lg:text-7xl"
           }
           wordSpace={"mr-[14px]"}
           charSpace={"mr-[0.001em]"}
         />
-<h2 className="mb-10 text-[36px] text-[#ffa590] md:mb-16 md:text-[42px] lg:mb-16 lg:text-[72px]">
-        About
-      </h2>
+          <h2 className="mb-10 text-[36px] text-[#ffa590] md:mb-16 md:text-[42px] lg:mb-16 lg:text-[72px]">
+            About
+          </h2>
         <div className="mx-auto flex w-[100%] flex-col lg:max-w-[1200px] lg:flex-row lg:gap-20">
           <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-medium  leading-relaxed tracking-wide text-[#ffa590] md:mb-16 md:gap-6 md:text-[20px] md:leading-relaxed lg:mb-16  lg:max-w-[90%] lg:text-[24px] ">
             <AniBody
