@@ -8,6 +8,13 @@ export type expProps = {
   
   export const expDets = [
     {
+      title: "Software Engineer Trainee",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMibBbgJuQ3Ynt3CGhhMFRQeg3of9m11AXQQ&s",
+      date: "Revature [Jul 2024-Present] ",
+      url: "https://www.linkedin.com/company/revature",
+      available: true,
+    },
+    {
       title: "AWS Cloud Revitalizer Volunteer",
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKPZbETjSyeANfjHxMNs2GRFgAUBvHPD9zYI2Dl56k4g&s",
       date: "SURE Trust [Feb 2024-Present] ",

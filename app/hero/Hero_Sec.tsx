@@ -9,7 +9,7 @@ import profile from "../../public/profile.jpeg";
 const Hero_Sec = () => {
   return (
     <motion.section
-      className="relative z-10 flex h-[80vh] w-full items-stretch justify-center bg-[url('.//../public/hero.jpg')] bg-cover  bg-center py-0 sm:h-[90vh]  md:h-[100vh]"
+      className="relative z-10 flex h-[80vh] w-full items-stretch justify-center bg-[url('.//../public/hero.webp')] bg-cover bg-center py-0 sm:h-[90vh]  md:h-[100vh]"
       id="home"
       initial="initial"
       animate="animate"
@@ -33,6 +33,18 @@ const Hero_Sec = () => {
         </div>
 
         <div className="flex gap-10 text-[#ffa590] sm:gap-12 md:gap-14 lg:gap-14">
+          <Link
+            href=""
+            target="_blank"
+            aria-label="View Cloudush Blog"
+          >
+            <motion.p
+              className="text-[16px] font-bold text-[#ffa590] md:text-[16px]"
+              variants={bodyAnimation}
+            >
+              BLOG
+            </motion.p>
+          </Link>
           <Link
             href="https://www.linkedin.com/in/kdushyantreddy/"
             target="_blank"
@@ -106,14 +118,14 @@ const Hero_Sec = () => {
           variants={bodyAnimation}
         >
           <p className="z-50 text-center text-[16px] font-medium text-[#ffa590] md:text-[20px] lg:text-left">
-            Aspiring Software Engineer and AWS Cloud Revitalizer Volunteer, presently at{" "}
+            Aspiring Software Engineer and Software Engineer Trainee(AWS), presently at{" "}
             <Link
-              href="https://www.suretrustforruralyouth.com/"
+              href="https://revature.com/"
               target="_blank"
               className="underline underline-offset-2 hover:no-underline"
-              aria-label="SURE Trust Website"
+              aria-label="Revature Website"
             >
-              SURE Trust.
+              Revature.
             </Link>
           </p>
         </motion.div>
